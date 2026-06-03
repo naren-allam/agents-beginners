@@ -1,4 +1,6 @@
-# AI Agents For Professionals
+# AI Agents For Professionals: Building Agentic AI with Langflow
+
+> A low-code guide. Every chapter teaches agentic AI by designing, testing, and shipping **flows** in Langflow's visual editor rather than hand-writing framework code.
 
 ## Table of Contents
 
@@ -95,3 +97,17 @@
         7.2.1 Becoming an Agentic AI Advocate  
         7.2.2 Continuous Learning and Community  
         7.2.3 Building a Career in Agentic AI
+
+8. Personal Agents: Always-On Assistants You Run Yourself  
+    8.1 What Makes a Personal Agent Different  
+        8.1.1 From Shared Service to Personal, Always-On Agent  
+        8.1.2 Local-First, Messaging-First, and Proactive  
+        8.1.3 Memory, Skills, and Getting Smarter Over Time  
+    8.2 Two Open-Source Personal Agents  
+        8.2.1 OpenClaw: The Multi-Channel Personal Assistant  
+        8.2.2 Hermes: The Self-Improving Agent  
+        8.2.3 Personal Agent Use Cases in Practice  
+    8.3 Building Personal Agents Responsibly with Low-Code  
+        8.3.1 Personal Agent Patterns in Langflow  
+        8.3.2 Boundaries, Privacy, and Trust for Personal Agents  
+        8.3.3 From Personal Agent to Team and Enterprise
